@@ -1,12 +1,68 @@
-# React + Vite
+# Melodeath.guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A chronological and visual guide to the most influential melodic death metal albums.**  
+Built with ❤️ by a metalhead, for those who want to explore or revisit the genre from its roots.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Purpose
 
-## Expanding the ESLint configuration
+**Melodeath.guide** is more than just a list of records.  
+It's a curated journey through time, with reviews that explain **each album’s impact on the genre** and its historical context.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Ideal for:
+- New listeners looking for a structured introduction
+- Fans revisiting the genre’s milestones
+- Metal enthusiasts studying the evolution of melodeath
+
+---
+
+## 🎧 What each album includes
+
+Each album entry in the grid displays:
+
+- 🎨 Album cover  
+- 📅 Release year  
+- 🤘 Band name  
+- 📜 Full tracklist  
+- 📝 Contextual review (historical significance, stylistic details, influence, etc.)
+
+Albums are displayed in **chronological order**, starting from the early 1990s.
+
+Currently, the site features around **100 key records**, with more to be added over time.
+
+---
+
+## ⚙️ Tech Stack
+
+- [React](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- Local database using a **JavaScript object**  
+- Hosted at: [melodeath.guide](https://melodeath.guide)
+
+---
+
+## 💡 Why I built this
+This is my **first full project** using React and Tailwind. I’m using it as a learning experience while building something I'm passionate about.
+
+This project comes from two personal passions:
+
+1. **Melodic death metal**, especially the 90s scene  
+2. **Modern web development**, which I'm currently learning
+
+It’s a way to practice coding while giving back to a genre I like.
+
+---
+
+## 🤘 Credits & thanks
+
+Massive thanks to all the bands who shaped this genre.  
+And to the listeners keeping the classic melodeath flame alive.
+
+---
+
+## 🕸️ Live site
+
+🔗 [https://melodeath.guide](https://melodeath.guide)
+
+---
