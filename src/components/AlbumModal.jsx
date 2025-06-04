@@ -1,9 +1,10 @@
-import { useRef, useEffect } from 'react';
+import { useRef, useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useSwipeable } from 'react-swipeable';
 import CloseIcon from './CloseIcon';
 import NavigationButton from './NavigationButton';
+import { motion, AnimatePresence } from 'framer-motion';
 
 function AlbumModal({ album, onClose, onPrevious, onNext, isFirst, isLast}) {
   const containerRef = useRef(null);
@@ -27,11 +28,30 @@ function AlbumModal({ album, onClose, onPrevious, onNext, isFirst, isLast}) {
     onSwipedRight: () => !isFirst && onPrevious(),
     trackTouch: true,
     trackMouse: false,
+    delta: 100,
   });
 
+  const [showOverlay, setShowOverlay] = useState(false);
+
   return (
-    <div {...handlers} className="fixed inset-0 flex justify-center backdrop-blur-md bg-gray-900/50">
-      <div
+    <motion.div {...handlers} className="fixed inset-0 flex justify-center">
+      {showOverlay && (
+        <motion.div
+        className="absolute inset-0 backdrop-blur-md bg-gray-900/50"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={{ duration: 0.1 }}
+        />
+      )}
+
+      <motion.div
+        layoutId={album.id}
+        initial={{ opacity: 1, scale: 0.95 }}
+        animate={{ opacity: 1, scale: 1 }}
+        exit={{ opacity: 0, scale: 0.95 }}
+        onAnimationComplete={() => setShowOverlay(true)}
+        transition={{ duration: 0.3, ease: 'easeInOut' }}
         className="w-full max-h-dvh flex flex-col relative px-4 lg:px-0 lg:pl-4 lg:my-2 lg:rounded-3xl bg-gray-900 text-gray-300 lg:w-1/2"
       >
         <div className="modal-header flex-shrink-0 py-4 border-b border-gray-700">
@@ -74,8 +94,8 @@ function AlbumModal({ album, onClose, onPrevious, onNext, isFirst, isLast}) {
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      </motion.div>
+    </motion.div>
   )
 }
 

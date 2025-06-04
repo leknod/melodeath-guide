@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { albums } from '../data/albums.js';
 import AlbumModal from './AlbumModal';
+import { motion, AnimatePresence } from 'framer-motion';
 
 function AlbumGrid() {
   const [selectedAlbum, setSelectedAlbum] = useState(null);
@@ -39,25 +40,28 @@ function AlbumGrid() {
   return (
     <>
       {sortedAlbums.map((album) => (
-        <img
+        <motion.img
           key={album.id}
           src={album.cover}
           alt={album.title}
           title={album.title}
           className="cursor-pointer"
+          layoutId={album.id}
           onClick={() => handleAlbumClick(album)}
         />
       ))}
-      {selectedAlbum && (
-        <AlbumModal
-          album={selectedAlbum} 
-          onClose={closeModal}
-          onPrevious={handlePreviousAlbum}
-          onNext={handleNextAlbum}
-          isFirst={isFirst}
-          isLast={isLast}
-        />
-      )}
+      <AnimatePresence>
+        {selectedAlbum && (
+          <AlbumModal
+            album={selectedAlbum}
+            onClose={closeModal}
+            onPrevious={handlePreviousAlbum}
+            onNext={handleNextAlbum}
+            isFirst={isFirst}
+            isLast={isLast}
+          />
+        )}
+      </AnimatePresence>
     </>
   );
 }

@@ -4,7 +4,7 @@ export const albums = [
     "title": "The Red in the Sky Is Ours",
     "year": 1992,
     "artist": "At the Gates",
-    "cover": "/img/the-red-in-the-sky-is-ours.jpg",
+    "cover": "/img/the-red-in-the-sky-is-ours.webp",
     "review": `
 In the early 1990s, death metal stood at a pivotal crossroads. The genre had already erupted into full force with the relentless brutality of the Floridian scene (*Death*, *Morbid Angel*, *Obituary*) and the buzzsaw ferocity of Stockholm's own (*Entombed*, *Dismember*, *Grave*). Yet, something was brewing beneath the icy soil of Gothenburg, Sweden—a colder, more cerebral strain of death metal that would come to define an entire movement. *The Red in the Sky Is Ours*, the debut album from At the Gates, is widely regarded not only as a foundational document of what would become melodic death metal, but as one of the most daring and unorthodox records in the genre's formative years.
 
@@ -67,7 +67,7 @@ And you will not emerge unchanged.
     "title": "With Fear I Kiss the Burning Darkness",
     "year": 1993,
     "artist": "At the Gates",
-    "cover": "/img/with-fear-i-kiss-the-burning-darkness.jpg",
+    "cover": "/img/with-fear-i-kiss-the-burning-darkness.webp",
     "review": `
 In the early 1990s, the Swedish death metal scene was burgeoning with innovation. Following the raw aggression of their debut, *The Red in the Sky Is Ours* (1992), At the Gates returned with their sophomore effort, *With Fear I Kiss the Burning Darkness*, in 1993. This period marked a transition in the genre, as bands began to explore more melodic and complex compositions, setting the stage for what would become the hallmark of the Gothenburg sound.
 
@@ -116,7 +116,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Skydancer",
     "year": 1993,
     "artist": "Dark Tranquillity",
-    "cover": "/img/skydancer.jpg",
+    "cover": "/img/skydancer.webp",
     "review": "skydancer.md",
     "tracks": [
     { "title": "Nightfall by the Shore of Time" },
@@ -135,7 +135,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Terminal Spirit Disease",
     "year": 1994,
     "artist": "At the Gates",
-    "cover": "/img/terminal-spirit-disease.jpg",
+    "cover": "/img/terminal-spirit-disease.webp",
     "review": "terminal-spirit-disease.md",
     "tracks": [
       { "title": "The Swarm" },
@@ -154,7 +154,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Lunar Strain",
     "year": 1994,
     "artist": "In Flames",
-    "cover": "/img/lunar-strain.jpg",
+    "cover": "/img/lunar-strain.webp",
     "review": "lunar-strain.md",
     "tracks": [
     { "title": "Behind Space" },
@@ -174,7 +174,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Gallery",
     "year": 1995,
     "artist": "Dark Tranquillity",
-    "cover": "/img/the-gallery.jpg",
+    "cover": "/img/the-gallery.webp",
     "review": "the-gallery.md",
     "tracks": [
     { "title": "Punish My Heaven" },
@@ -195,7 +195,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Slaughter of the Soul",
     "year": 1995,
     "artist": "At the Gates",
-    "cover": "/img/slaughter-of-the-soul.jpg",
+    "cover": "/img/slaughter-of-the-soul.webp",
     "review": "slaughter-of-the-soul.md",
     "tracks": [
       { "title": "Blinded by Fear" },
@@ -216,7 +216,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Jester Race",
     "year": 1996,
     "artist": "In Flames",
-    "cover": "/img/the-jester-race.jpg",
+    "cover": "/img/the-jester-race.webp",
     "review": "the-jester-race.md",
     "tracks": [
       { "title": "Moonshield" },
@@ -236,7 +236,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Mind's I",
     "year": 1997,
     "artist": "Dark Tranquillity",
-    "cover": "/img/the-minds-i.jpg",
+    "cover": "/img/the-minds-i.webp",
     "review": "the-minds-i.md",
     "tracks": [
       { "title": "Dreamlore Degenerate" },
@@ -258,7 +258,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Whoracle",
     "year": 1997,
     "artist": "In Flames",
-    "cover": "/img/whoracle.jpg",
+    "cover": "/img/whoracle.webp",
     "review": "whoracle.md",
     "tracks": [
       { "title": "Jotun" },
@@ -279,7 +279,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Colony",
     "year": 1999,
     "artist": "In Flames",
-    "cover": "/img/colony.jpg",
+    "cover": "/img/colony.webp",
     "review": "colony.md",
     "tracks": [
       { "title": "Embody the Invisible" },
@@ -300,7 +300,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Projector",
     "year": 1999,
     "artist": "Dark Tranquillity",
-    "cover": "/img/projector.jpg",
+    "cover": "/img/projector.webp",
     "review": "projector.md",
     "tracks": [
       { "title": "FreeCard" },
@@ -320,7 +320,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Clayman",
     "year": 2000,
     "artist": "In Flames",
-    "cover": "/img/clayman.jpg",
+    "cover": "/img/clayman.webp",
     "review": "clayman.md",
     "tracks": [
       { "title": "Bullet Ride" },
@@ -341,7 +341,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Converging Ages",
     "year": 2008,
     "artist": "Inanna",
-    "cover": "/img/converging-ages.jpg",
+    "cover": "/img/converging-ages.webp",
     "review": "converging-ages.md",
     "tracks": [
       { "title": "Doom of Mankind" },
@@ -359,7 +359,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Crimson",
     "year": 1996,
     "artist": "Edge of Sanity",
-    "cover": "/img/crimson.jpg",
+    "cover": "/img/crimson.webp",
     "review": "crimson.md",
     "tracks": [
       { "title": "Crimson" }
@@ -370,7 +370,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "An Anatomy of the Beast",
     "year": 1997,
     "artist": "Intestine Baalism",
-    "cover": "/img/an-anatomy-of-the-beast.jpg",
+    "cover": "/img/an-anatomy-of-the-beast.webp",
     "review": "an-anatomy-of-the-beast.md",
     "tracks": [
       { "title": "Corporal Celebration" },
@@ -389,7 +389,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Banquet in the Darkness",
     "year": 2003,
     "artist": "Intestine Baalism",
-    "cover": "/img/banquet-in-the-darkness.jpg",
+    "cover": "/img/banquet-in-the-darkness.webp",
     "review": "banquet-in-the-darkness.md",
     "tracks": [
       { "title": "Flesh for the Twelfth Omnipotent" },
@@ -410,7 +410,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Heartwork",
     "year": 1993,
     "artist": "Carcass",
-    "cover": "/img/heartwork.jpg",
+    "cover": "/img/heartwork.webp",
     "review": "heartwork.md",
     "tracks": [
       { "title": "Buried Dreams" },
@@ -430,7 +430,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Purgatory Afterglow",
     "year": 1994,
     "artist": "Edge of Sanity",
-    "cover": "/img/purgatory-afterglow.jpg",
+    "cover": "/img/purgatory-afterglow.webp",
     "review": "purgatory-afterglow.md",
     "tracks": [
       { "title": "Twilight" },
@@ -450,7 +450,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Ultimate Instinct",
     "year": 2008,
     "artist": "Intestine Baalism",
-    "cover": "/img/ultimate-instinct.jpg",
+    "cover": "/img/ultimate-instinct.webp",
     "review": "ultimate-instinct.md",
     "tracks": [
       { "title": "Agony in the Stone Chamber" },
@@ -469,7 +469,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Oracle Moon",
     "year": 2000,
     "artist": "Garden of Shadows",
-    "cover": "/img/oracle-moon.jpg",
+    "cover": "/img/oracle-moon.webp",
     "review": "oracle-moon.md",
     "tracks": [
       { "title": "Oracle Moon" },
@@ -486,7 +486,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Winter's Gate",
     "year": 2016,
     "artist": "Insomnium",
-    "cover": "/img/winters-gate.jpg",
+    "cover": "/img/winters-gate.webp",
     "review": "winters-gate.md",
     "tracks": [
       { "title": "Winter's Gate" }
@@ -497,7 +497,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Above the Weeping World",
     "year": 2006,
     "artist": "Insomnium",
-    "cover": "/img/above-the-weeping-world.jpg",
+    "cover": "/img/above-the-weeping-world.webp",
     "review": "above-the-weeping-world.md",
     "tracks": [
       { "title": "The Gale" },
@@ -516,7 +516,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Damage Done",
     "year": 2002,
     "artist": "Dark Tranquillity",
-    "cover": "/img/damage-done.jpg",
+    "cover": "/img/damage-done.webp",
     "review": "damage-done.md",
     "tracks": [
       { "title": "Final Resistance" },
@@ -537,7 +537,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Crimson II",
     "year": 2003,
     "artist": "Edge of Sanity",
-    "cover": "/img/crimson-ii.jpg",
+    "cover": "/img/crimson-ii.webp",
     "review": "crimson-ii.md",
     "tracks": [
       { "title": "Crimson II" }
@@ -548,7 +548,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "North From Here",
     "year": 1993,
     "artist": "Sentenced",
-    "cover": "/img/north-from-here.jpg",
+    "cover": "/img/north-from-here.webp",
     "review": "north-from-here.md",
     "tracks": [
       { "title": "My Sky Is Darker Than Thine" },
@@ -566,7 +566,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Tales From the Thousand Lakes",
     "year": 1994,
     "artist": "Amorphis",
-    "cover": "/img/tales-from-the-thousand-lakes.jpg",
+    "cover": "/img/tales-from-the-thousand-lakes.webp",
     "review": "tales-from-the-thousand-lakes.md",
     "tracks": [
       { "title": "Thousand Lakes" },
@@ -586,7 +586,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Stone's Reach",
     "year": 2009,
     "artist": "Be'lakor",
-    "cover": "/img/stones-reach.jpg",
+    "cover": "/img/stones-reach.webp",
     "review": "stones-reach.md",
     "tracks": [
       { "title": "Venator" },
@@ -604,7 +604,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Fiction",
     "year": 2007,
     "artist": "Dark Tranquillity",
-    "cover": "/img/fiction.jpg",
+    "cover": "/img/fiction.webp",
     "review": "fiction.md",
     "tracks": [
       { "title": "Nothing to No One" },
@@ -624,7 +624,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Wintersun",
     "year": 2004,
     "artist": "Wintersun",
-    "cover": "/img/wintersun.jpg",
+    "cover": "/img/wintersun.webp",
     "review": "wintersun.md",
     "tracks": [
       { "title": "Beyond the Dark Sun" },
@@ -642,7 +642,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Ancient God of Evil",
     "year": 1995,
     "artist": "Unanimated",
-    "cover": "/img/ancient-god-of-evil.jpg",
+    "cover": "/img/ancient-god-of-evil.webp",
     "review": "ancient-god-of-evil.md",
     "tracks": [
       { "title": "Life Demise" },
@@ -661,7 +661,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Across the Dark",
     "year": 2009,
     "artist": "Insomnium",
-    "cover": "/img/across-the-dark.jpg",
+    "cover": "/img/across-the-dark.webp",
     "review": "across-the-dark.md",
     "tracks": [
       { "title": "Equivalence" },
@@ -679,7 +679,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Character",
     "year": 2005,
     "artist": "Dark Tranquillity",
-    "cover": "/img/character.jpg",
+    "cover": "/img/character.webp",
     "review": "character.md",
     "tracks": [
       { "title": "The New Build" },
@@ -700,7 +700,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Of Breath and Bone",
     "year": 2012,
     "artist": "Be'lakor",
-    "cover": "/img/of-breath-and-bone.jpg",
+    "cover": "/img/of-breath-and-bone.webp",
     "review": "of-breath-and-bone.md",
     "tracks": [
       { "title": "Abeyance" },
@@ -718,7 +718,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Deathrace King",
     "year": 2000,
     "artist": "The Crown",
-    "cover": "/img/deathrace-king.jpg",
+    "cover": "/img/deathrace-king.webp",
     "review": "deathrace-king.md",
     "tracks": [
       { "title": "Deathexplosion" },
@@ -739,7 +739,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Woe",
     "year": 2022,
     "artist": "An Abstract Illusion",
-    "cover": "/img/woe.jpg",
+    "cover": "/img/woe.webp",
     "review": "woe.md",
     "tracks": [
       { "title": "The Behemoth That Lies Asleep" },
@@ -756,7 +756,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Melancholy",
     "year": 2019,
     "artist": "Shadow of Intent",
-    "cover": "/img/melancholy.jpg",
+    "cover": "/img/melancholy.webp",
     "review": "melancholy.md",
     "tracks": [
       { "title": "Melancholy" },
@@ -776,7 +776,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "With Oden on Our Side",
     "year": 2006,
     "artist": "Amon Amarth",
-    "cover": "/img/with-oden-on-our-side.jpg",
+    "cover": "/img/with-oden-on-our-side.webp",
     "review": "with-oden-on-our-side.md",
     "tracks": [
       { "title": "Valhall Awaits Me" },
@@ -795,7 +795,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Elegy",
     "year": 1996,
     "artist": "Amorphis",
-    "cover": "/img/elegy.jpg",
+    "cover": "/img/elegy.webp",
     "review": "elegy.md",
     "tracks": [
       { "title": "Better Unborn" },
@@ -816,7 +816,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "A Velvet Creation",
     "year": 1993,
     "artist": "Eucharist",
-    "cover": "/img/a-velvet-creation.jpg",
+    "cover": "/img/a-velvet-creation.webp",
     "review": "a-velvet-creation.md",
     "tracks": [
       { "title": "Greeting Immortality" },
@@ -834,7 +834,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Spectral Sorrows",
     "year": 1993,
     "artist": "Edge of Sanity",
-    "cover": "/img/the-spectral-sorrows.jpg",
+    "cover": "/img/the-spectral-sorrows.webp",
     "review": "the-spectral-sorrows.md",
     "tracks": [
       { "title": "The Spectral Sorrows" },
@@ -857,7 +857,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Since the Day It All Came Down",
     "year": 2004,
     "artist": "Insomnium",
-    "cover": "/img/since-the-day-it-all-came-down.jpg",
+    "cover": "/img/since-the-day-it-all-came-down.webp",
     "review": "since-the-day-it-all-came-down.md",
     "tracks": [
       { "title": "Nocturne" },
@@ -878,7 +878,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Living Infinite",
     "year": 2013,
     "artist": "Soilwork",
-    "cover": "/img/the-living-infinite.jpg",
+    "cover": "/img/the-living-infinite.webp",
     "review": "the-living-infinite.md",
     "tracks": [
       { "title": "Spectrum of Eternity" },
@@ -907,7 +907,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Heart Like a Grave",
     "year": 2019,
     "artist": "Insomnium",
-    "cover": "/img/heart-like-a-grave.jpg",
+    "cover": "/img/heart-like-a-grave.webp",
     "review": "heart-like-a-grave.md",
     "tracks": [
       { "title": "Wail of the North" },
@@ -927,7 +927,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Twilight of the Thunder God",
     "year": 2008,
     "artist": "Amon Amarth",
-    "cover": "/img/twilight-of-the-thunder-god.jpg",
+    "cover": "/img/twilight-of-the-thunder-god.webp",
     "review": "twilight-of-the-thunder-god.md",
     "tracks": [
       { "title": "Twilight of the Thunder God" },
@@ -947,7 +947,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Shadows of the Dying Sun",
     "year": 2014,
     "artist": "Insomnium",
-    "cover": "/img/shadows-of-the-dying-sun.jpg",
+    "cover": "/img/shadows-of-the-dying-sun.webp",
     "review": "shadows-of-the-dying-sun.md",
     "tracks": [
       { "title": "The Primeval Dark" },
@@ -967,7 +967,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Vessels",
     "year": 2016,
     "artist": "Be'lakor",
-    "cover": "/img/vessels.jpg",
+    "cover": "/img/vessels.webp",
     "review": "vessels.md",
     "tracks": [
       { "title": "Luma" },
@@ -985,7 +985,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Holographic Universe",
     "year": 2008,
     "artist": "Scar Symmetry",
-    "cover": "/img/holographic-universe.jpg",
+    "cover": "/img/holographic-universe.webp",
     "review": "holographic-universe.md",
     "tracks": [
       { "title": "Morphogenesis" },
@@ -1007,7 +1007,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Deliver Us",
     "year": 2007,
     "artist": "Darkest Hour",
-    "cover": "/img/deliver-us.jpg",
+    "cover": "/img/deliver-us.webp",
     "review": "deliver-us.md",
     "tracks": [
       { "title": "Doomsayer (The Beginning of the End)" },
@@ -1028,7 +1028,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Swampsong",
     "year": 2003,
     "artist": "Kalmah",
-    "cover": "/img/swampsong.jpg",
+    "cover": "/img/swampsong.webp",
     "review": "swampsong.md",
     "tracks": [
       { "title": "Heroes to Us" },
@@ -1047,7 +1047,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Hatebreeder",
     "year": 1999,
     "artist": "Children of Bodom",
-    "cover": "/img/hatebreeder.jpg",
+    "cover": "/img/hatebreeder.webp",
     "review": "hatebreeder.md",
     "tracks": [
       { "title": "Warheart" },
@@ -1066,7 +1066,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Hypocrisy",
     "year": 1999,
     "artist": "Hypocrisy",
-    "cover": "/img/hypocrisy.jpg",
+    "cover": "/img/hypocrisy.webp",
     "review": "hypocrisy.md",
     "tracks": [
       { "title": "Fractured Millennium" },
@@ -1086,7 +1086,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Nocturnal",
     "year": 2007,
     "artist": "The Black Dahlia Murder",
-    "cover": "/img/nocturnal.jpg",
+    "cover": "/img/nocturnal.webp",
     "review": "nocturnal.md",
     "tracks": [
       { "title": "Everything Went Black" },
@@ -1106,7 +1106,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Coherence",
     "year": 2021,
     "artist": "Be'lakor",
-    "cover": "/img/coherence.jpg",
+    "cover": "/img/coherence.webp",
     "review": "coherence.md",
     "tracks": [
       { "title": "Locus" },
@@ -1124,7 +1124,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "New World Shadows",
     "year": 2011,
     "artist": "Omnium Gatherum",
-    "cover": "/img/new-world-shadows.jpg",
+    "cover": "/img/new-world-shadows.webp",
     "review": "new-world-shadows.md",
     "tracks": [
       { "title": "Everfields" },
@@ -1143,7 +1143,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Follow the Reaper",
     "year": 2000,
     "artist": "Children of Bodom",
-    "cover": "/img/follow-the-reaper.jpg",
+    "cover": "/img/follow-the-reaper.webp",
     "review": "follow-the-reaper.md",
     "tracks": [
       { "title": "Follow the Reaper" },
@@ -1162,7 +1162,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Black Waltz",
     "year": 2006,
     "artist": "Kalmah",
-    "cover": "/img/the-black-waltz.jpg",
+    "cover": "/img/the-black-waltz.webp",
     "review": "the-black-waltz.md",
     "tracks": [
       { "title": "Defeat" },
@@ -1183,7 +1183,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Final Chapter",
     "year": 1997,
     "artist": "Hypocrisy",
-    "cover": "/img/the-final-chapter.jpg",
+    "cover": "/img/the-final-chapter.webp",
     "review": "the-final-chapter.md",
     "tracks": [
       { "title": "Inseminated Adoption" },
@@ -1205,7 +1205,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "They Will Return",
     "year": 2002,
     "artist": "Kalmah",
-    "cover": "/img/they-will-return.jpg",
+    "cover": "/img/they-will-return.webp",
     "review": "they-will-return.md",
     "tracks": [
       { "title": "Hollow Heart" },
@@ -1224,7 +1224,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Surgical Steel",
     "year": 2013,
     "artist": "Carcass",
-    "cover": "/img/surgical-steel.jpg",
+    "cover": "/img/surgical-steel.webp",
     "review": "surgical-steel.md",
     "tracks": [
       { "title": "1985" },
@@ -1245,7 +1245,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Weight of Oceans",
     "year": 2012,
     "artist": "In Mourning",
-    "cover": "/img/the-weight-of-oceans.jpg",
+    "cover": "/img/the-weight-of-oceans.webp",
     "review": "the-weight-of-oceans.md",
     "tracks": [
       { "title": "Colossus" },
@@ -1264,7 +1264,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Pitch Black Progress",
     "year": 2006,
     "artist": "Scar Symmetry",
-    "cover": "/img/pitch-black-progress.jpg",
+    "cover": "/img/pitch-black-progress.webp",
     "review": "pitch-black-progress.md",
     "tracks": [
       { "title": "The Illusionist" },
@@ -1285,7 +1285,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "One for Sorrow",
     "year": 2011,
     "artist": "Insomnium",
-    "cover": "/img/one-for-sorrow.jpg",
+    "cover": "/img/one-for-sorrow.webp",
     "review": "one-for-sorrow.md",
     "tracks": [
       { "title": "Inertia" },
@@ -1305,7 +1305,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Abducted",
     "year": 1996,
     "artist": "Hypocrisy",
-    "cover": "/img/abducted.jpg",
+    "cover": "/img/abducted.webp",
     "review": "abducted.md",
     "tracks": [
       { "title": "The Gathering" },
@@ -1328,7 +1328,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Air Not Meant for Us",
     "year": 2023,
     "artist": "Fires in the Distance",
-    "cover": "/img/air-not-meant-for-us.jpg",
+    "cover": "/img/air-not-meant-for-us.webp",
     "review": "air-not-meant-for-us.md",
     "tracks": [
       { "title": "Harbingers" },
@@ -1344,7 +1344,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Ritual",
     "year": 2011,
     "artist": "The Black Dahlia Murder",
-    "cover": "/img/ritual.jpg",
+    "cover": "/img/ritual.webp",
     "review": "ritual.md",
     "tracks": [
       { "title": "A Shrine to Madness" },
@@ -1366,7 +1366,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Swamplord",
     "year": 2000,
     "artist": "Kalmah",
-    "cover": "/img/swamplord.jpg",
+    "cover": "/img/swamplord.webp",
     "review": "swamplord.md",
     "tracks": [
       { "title": "Evil in You" },
@@ -1384,7 +1384,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Burning Bridges",
     "year": 1999,
     "artist": "Arch Enemy",
-    "cover": "/img/burning-bridges.jpg",
+    "cover": "/img/burning-bridges.webp",
     "review": "burning-bridges.md",
     "tracks": [
       { "title": "The Immortal" },
@@ -1402,7 +1402,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Versus the World",
     "year": 2002,
     "artist": "Amon Amarth",
-    "cover": "/img/versus-the-world.jpg",
+    "cover": "/img/versus-the-world.webp",
     "review": "versus-the-world.md",
     "tracks": [
       { "title": "Death in Fire" },
@@ -1421,7 +1421,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Undoing Ruin",
     "year": 2005,
     "artist": "Darkest Hour",
-    "cover": "/img/undoing-ruin.jpg",
+    "cover": "/img/undoing-ruin.webp",
     "review": "undoing-ruin.md",
     "tracks": [
       { "title": "With a Thousand Words to Say but One" },
@@ -1442,7 +1442,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Defiant Imagination",
     "year": 2004,
     "artist": "Quo Vadis",
-    "cover": "/img/defiant-imagination.jpg",
+    "cover": "/img/defiant-imagination.webp",
     "review": "defiant-imagination.md",
     "tracks": [
       { "title": "Silence Calls the Storm" },
@@ -1461,7 +1461,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Virus",
     "year": 2005,
     "artist": "Hypocrisy",
-    "cover": "/img/virus.jpg",
+    "cover": "/img/virus.webp",
     "review": "virus.md",
     "tracks": [
       { "title": "XVI" },
@@ -1482,7 +1482,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Anno 1696",
     "year": 2023,
     "artist": "Insomnium",
-    "cover": "/img/anno-1696.jpg",
+    "cover": "/img/anno-1696.webp",
     "review": "anno-1696.md",
     "tracks": [
       { "title": "1696" },
@@ -1500,7 +1500,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Orchid",
     "year": 1995,
     "artist": "Opeth",
-    "cover": "/img/orchid.jpg",
+    "cover": "/img/orchid.webp",
     "review": "orchid.md",
     "tracks": [
       { "title": "In Mist She Was Standing" },
@@ -1517,7 +1517,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Atoma",
     "year": 2016,
     "artist": "Dark Tranquillity",
-    "cover": "/img/atoma.jpg",
+    "cover": "/img/atoma.webp",
     "review": "atoma.md",
     "tracks": [
       { "title": "Encircled" },
@@ -1539,7 +1539,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "A Celebration of Guilt",
     "year": 2004,
     "artist": "Arsis",
-    "cover": "/img/a-celebration-of-guilt.jpg",
+    "cover": "/img/a-celebration-of-guilt.webp",
     "review": "a-celebration-of-guilt.md",
     "tracks": [
       { "title": "The Face of My Innocence" },
@@ -1560,7 +1560,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Nightbringers",
     "year": 2017,
     "artist": "The Black Dahlia Murder",
-    "cover": "/img/nightbringers.jpg",
+    "cover": "/img/nightbringers.webp",
     "review": "nightbringers.md",
     "tracks": [
       { "title": "Widowmaker" },
@@ -1579,7 +1579,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Everblack",
     "year": 2013,
     "artist": "The Black Dahlia Murder",
-    "cover": "/img/everblack.jpg",
+    "cover": "/img/everblack.webp",
     "review": "everblack.md",
     "tracks": [
       { "title": "In Hell Is Where She Waits for Me" },
@@ -1599,7 +1599,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Chainheart Machine",
     "year": 1999,
     "artist": "Soilwork",
-    "cover": "/img/the-chainheart-machine.jpg",
+    "cover": "/img/the-chainheart-machine.webp",
     "review": "the-chainheart-machine.md",
     "tracks": [
       { "title": "The Chainheart Machine" },
@@ -1618,7 +1618,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "A Predator's Portrait",
     "year": 2001,
     "artist": "Soilwork",
-    "cover": "/img/a-predators-portrait.jpg",
+    "cover": "/img/a-predators-portrait.webp",
     "review": "a-predators-portrait.md",
     "tracks": [
       { "title": "Bastard Chain" },
@@ -1638,7 +1638,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Natural Born Chaos",
     "year": 2002,
     "artist": "Soilwork",
-    "cover": "/img/natural-born-chaos.jpg",
+    "cover": "/img/natural-born-chaos.webp",
     "review": "natural-born-chaos.md",
     "tracks": [
       { "title": "Follow the Hollow" },
@@ -1658,7 +1658,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "In the Halls of Awaiting",
     "year": 2002,
     "artist": "Insomnium",
-    "cover": "/img/in-the-halls-of-awaiting.jpg",
+    "cover": "/img/in-the-halls-of-awaiting.webp",
     "review": "in-the-halls-of-awaiting.md",
     "tracks": [
       { "title": "Ill-Starred Son" },
@@ -1678,7 +1678,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Days of the Lost",
     "year": 2022,
     "artist": "The Halo Effect",
-    "cover": "/img/days-of-the-lost.jpg",
+    "cover": "/img/days-of-the-lost.webp",
     "review": "days-of-the-lost.md",
     "tracks": [
       { "title": "Shadowminds" },
@@ -1698,7 +1698,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "The Arrival",
     "year": 2004,
     "artist": "Hypocrisy",
-    "cover": "/img/the-arrival.jpg",
+    "cover": "/img/the-arrival.webp",
     "review": "the-arrival.md",
     "tracks": [
       { "title": "Born Dead Buried Alive" },
@@ -1717,7 +1717,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Haven",
     "year": 2000,
     "artist": "Dark Tranquillity",
-    "cover": "/img/haven.jpg",
+    "cover": "/img/haven.webp",
     "review": "haven.md",
     "tracks": [
       { "title": "The Wonders at Your Feet" },
@@ -1738,7 +1738,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Slania",
     "year": 2008,
     "artist": "Eluveitie",
-    "cover": "/img/slania.jpg",
+    "cover": "/img/slania.webp",
     "review": "slania.md",
     "tracks": [
       { "title": "Samon" },
@@ -1760,7 +1760,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Wages of Sin",
     "year": 2001,
     "artist": "Arch Enemy",
-    "cover": "/img/wages-of-sin.jpg",
+    "cover": "/img/wages-of-sin.webp",
     "review": "wages-of-sin.md",
     "tracks": [
       { "title": "Enemy Within" },
@@ -1781,7 +1781,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Spirit",
     "year": 2006,
     "artist": "Eluveitie",
-    "cover": "/img/spirit.jpg",
+    "cover": "/img/spirit.webp",
     "review": "spirit.md",
     "tracks": [
       { "title": "Spirit" },
@@ -1802,7 +1802,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Moment",
     "year": 2020,
     "artist": "Dark Tranquillity",
-    "cover": "/img/moment.jpg",
+    "cover": "/img/moment.webp",
     "review": "moment.md",
     "tracks": [
       { "title": "Phantom Days" },
@@ -1824,7 +1824,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Hate Crew Deathroll",
     "year": 2003,
     "artist": "Children of Bodom",
-    "cover": "/img/hate-crew-deathroll.jpg",
+    "cover": "/img/hate-crew-deathroll.webp",
     "review": "hate-crew-deathroll.md",
     "tracks": [
       { "title": "Needled 24/7" },
@@ -1843,7 +1843,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Surtur Rising",
     "year": 2011,
     "artist": "Amon Amarth",
-    "cover": "/img/surtur-rising.jpg",
+    "cover": "/img/surtur-rising.webp",
     "review": "surtur-rising.md",
     "tracks": [
       { "title": "War of the Gods" },
@@ -1863,7 +1863,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Something Wild",
     "year": 1997,
     "artist": "Children of Bodom",
-    "cover": "/img/something-wild.jpg",
+    "cover": "/img/something-wild.webp",
     "review": "something-wild.md",
     "tracks": [
       { "title": "Deadnight Warrior" },
@@ -1880,7 +1880,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "title": "Once Sent From the Golden Hall",
     "year": 1998,
     "artist": "Amon Amarth",
-    "cover": "/img/once-sent-from-the-golden-hall.jpg",
+    "cover": "/img/once-sent-from-the-golden-hall.webp",
     "review": "once-sent-from-the-golden-hall.md",
     "tracks": [
       { "title": "Ride for Vengeance" },
