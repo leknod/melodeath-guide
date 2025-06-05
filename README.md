@@ -38,7 +38,7 @@ Currently, the site features around **100 key records**, with more to be added o
 - [React](https://reactjs.org/)  
 - [Tailwind CSS](https://tailwindcss.com/)  
 - Local database using a **JavaScript object**  
-- Hosted at: [melodeath.guide](https://melodeath.guide)
+- Hosted at: [melodeath.guide](melodeath-guide.netlify.app/)
 
 ---
 
@@ -63,6 +63,6 @@ And to the listeners keeping the classic melodeath flame alive.
 
 ## 🕸️ Live site
 
-🔗 [https://melodeath.guide](https://melodeath.guide)
+🔗 [melodeath-guide.netlify.app](https://melodeath-guide.netlify.app/)
 
 ---
