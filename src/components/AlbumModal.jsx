@@ -67,7 +67,7 @@ function AlbumModal({ album, onClose, onPrevious, onNext, isFirst, isLast}) {
           <img src={album.cover} alt={album.title} title={album.title} className="mb-10 lg:w-1/2"/>
           <h2 className="text-2xl font-audiowide mb-2">Tracklist</h2>
             <ol className="list-decimal pl-8 mb-10">
-              {album.tracks.map((track, index) => (
+              {album.tracklist.map((track, index) => (
                 <li key={index} className="text-lg">{track.title}</li>
               ))}
             </ol>

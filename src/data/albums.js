@@ -5,51 +5,7 @@ export const albums = [
     "year": 1992,
     "artist": "At the Gates",
     "cover": "/img/the-red-in-the-sky-is-ours.webp",
-    "review": `
-In the early 1990s, death metal stood at a pivotal crossroads. The genre had already erupted into full force with the relentless brutality of the Floridian scene (*Death*, *Morbid Angel*, *Obituary*) and the buzzsaw ferocity of Stockholm's own (*Entombed*, *Dismember*, *Grave*). Yet, something was brewing beneath the icy soil of Gothenburg, Sweden—a colder, more cerebral strain of death metal that would come to define an entire movement. *The Red in the Sky Is Ours*, the debut album from At the Gates, is widely regarded not only as a foundational document of what would become melodic death metal, but as one of the most daring and unorthodox records in the genre's formative years.
-
-### Contextualizing 1992: The Birth of a New Swedish Sound
-
-To appreciate the shockwaves caused by *The Red in the Sky Is Ours*, we must situate it within the death metal landscape of 1992. Sweden had already birthed several landmark albums: Entombed's *Left Hand Path* (1990) had carved out the HM-2-laden “Sunlight Sound,” and Dismember's *Like an Ever Flowing Stream* (1991) continued to blaze a trail of carnage. These records were defined by their raw aggression and a punk-infused immediacy. At the Gates, however, emerged from a different lineage—formed by members of the defunct progressive death metal band *Grotesque*, they had more in common with the intricate riffing of *Death*'s *Human* or *Pestilence*'s *Testimony of the Ancients* than with the Stockholm scene's feral energy.
-
-This context is critical. *The Red in the Sky Is Ours* was not simply another death metal debut—it was a manifesto for a new kind of extremity: poetic, fractured, emotionally charged, and compositionally ambitious.
-
-### The Sound: Controlled Chaos and Emotional Ferocity
-
-Even by the standards of 1992, *The Red in the Sky Is Ours* is an intense and confrontational listen. From the opening salvo of the title track, the band's intention to transcend genre conventions is clear. Tomas Lindberg's tortured, nearly apocalyptic vocal delivery veers closer to existential wailing than guttural growls. Alf Svensson and Anders Björler trade riffs that feel simultaneously angular and melodic, chaotic and structured—a juxtaposition that becomes the defining aesthetic tension of the album.
-
-What makes this record unique is not just its dissonance, but its *purposeful* dissonance. Songs like **“Kingdom Gone”** and **“Through Gardens of Grief”** bristle with unpredictability, shifting tempos and moods with little warning, yet always returning to a central, emotive core. There's a sense of collapse and reconstruction within each track—brutality giving way to moments of fragile beauty, only to be swallowed again by discord.
-
-The violin, performed by Jesper Jarold, makes sporadic but haunting appearances, most notably on **“The Season to Come”** and the outro of the title track. Rather than a gimmick, the violin serves as a symbolic counterpoint to the chaos, embodying the album's ongoing negotiation between melody and extremity. In an era where “symphonic” elements were largely the domain of kitsch or novelty, At the Gates used classical instrumentation not for grandeur, but for *grief*.
-
-### Lyrics and Philosophy: Death Metal as Catharsis
-
-Lyrically, the album distances itself from death metal's fixation on gore and horror. Instead, it dives deep into introspection, philosophical despair, and human anguish. Co-written primarily by Tomas Lindberg and Alf Svensson, the lyrics read like avant-garde poetry—obscure, fragmented, and emotionally raw. There's a noticeable existential undercurrent, echoing themes later explored by bands like *Neurosis* or *Katatonia*, though here filtered through a lens of academic density and youthful fury.
-
-Consider the title itself: *The Red in the Sky Is Ours*. It evokes both a romanticized apocalypse and a collectivist assertion of identity, echoing the band's leftist, anti-authoritarian worldview—a rare stance in a scene more often defined by nihilism or occult fantasy.
-
-### Musical Legacy and Contribution to Melodic Death Metal
-
-While later At the Gates releases—particularly *Terminal Spirit Disease* (1994) and the seminal *Slaughter of the Soul* (1995)—would codify the Gothenburg sound with tighter songwriting and more accessible structures, *The Red in the Sky Is Ours* remains a wild, untamed precursor. Its influence is more spiritual than sonic: it opened the door for emotionality and sophistication within death metal's traditionally brutal framework.
-
-This debut is less about melody in the traditional sense, and more about an *emotional logic* to the chaos. In that regard, it presaged the works of bands like early *Opeth*, *Eucharist*, and even American acts like *The Red Chord* or early *Between the Buried and Me*, who similarly fused aggression with artistry.
-
-Additionally, **Alf Svensson's** role cannot be overstated. His background in visual art and avant-garde music theory heavily shaped the album's fractured structure and mood. He would leave the band after the follow-up (*With Fear I Kiss the Burning Darkness*, 1993), and while At the Gates would gain technical precision and cohesion, they arguably lost some of the experimental fire that made this debut so enigmatic.
-
-### Reception and Retrospective Appreciation
-
-Upon release, *The Red in the Sky Is Ours* received mixed reactions. Even among death metal fans, its complexity and lack of immediate hooks made it a difficult album to digest. It wasn't until years later—particularly after the success of *Slaughter of the Soul*—that listeners revisited the debut with fresh ears, recognizing it as a watershed moment for the genre.
-
-Today, the album stands as a testament to the artistic possibilities within death metal—a rare record that challenges the listener intellectually and emotionally. It is both a relic of its time and eerily prescient, suggesting paths the genre could have taken (and in some cases, *did* take, though far less often than one might expect).
-
-### Conclusion: The Spark Before the Flame
-
-In the chronological evolution of melodic death metal, *The Red in the Sky Is Ours* is less the beginning of the journey than the explosion that made the journey necessary. While not yet “melodic death metal” in the codified sense that would emerge later in the '90s, it laid the emotional and conceptual groundwork for what the subgenre would become. It is challenging, cathartic, and uncompromising—a fitting introduction to the artistry and agony that would define the next chapter in Swedish metal history.
-
-If you seek the roots of melodic death metal, you must pass through this fire.  
-And you will not emerge unchanged.
-    `,
-    "tracks": [
+    "tracklist": [
       { "title": "The Red in the Sky Is Ours / The Season to Come" },
       { "title": "Kingdom Gone" },
       { "title": "Through Gardens of Grief" },
@@ -60,7 +16,72 @@ And you will not emerge unchanged.
       { "title": "The Scar" },
       { "title": "Night Comes, Blood Black" },
       { "title": "City of Screaming Statues" }
-    ]
+    ],
+    "review": `
+At the Gates' debut full-length album, *The Red in the Sky Is Ours*, emerged from the burgeoning Swedish extreme metal scene on July 27, 1992. Initially released through Deaf Records in the UK and Grind Core International in the US, this record stands as a foundational, yet often misunderstood, cornerstone in the evolution of extreme metal. It precedes the band's later, more widely recognized and commercially accessible works, particularly the genre-defining *Slaughter of the Soul*.
+
+While At the Gates would later become synonymous with the "Gothenburg sound" of melodic death metal, *The Red in the Sky Is Ours* is best described as a raw, aggressive slab of pure death metal. This foundational brutality is uniquely infused with intricate melodic arrangements and avant-garde tendencies, setting it apart from its contemporaries. The album was notably self-produced by At the Gates, a factor that undoubtedly contributed to its distinctive, unpolished, and intensely organic character.
+
+The album features the core lineup that would define At the Gates' early sound: Tomas Lindberg on vocals, Anders Björler and Alf Svensson on guitars, Adrian Erlandsson on drums, and Jonas Björler on bass. This specific configuration, particularly the innovative songwriting contributions of guitarist Alf Svensson, proved crucial to the album's unique sonic fingerprint and its departure from contemporary norms. 
+
+More than just a preliminary effort or a mere precursor to future triumphs, *The Red in the Sky Is Ours* is a standalone artistic statement—a dark, labyrinthine journey that challenges listeners with its complexity and unconventional beauty. It is a true "underground" classic that continues to reveal its secrets and garner "belated admiration" with each deeper listen.
+
+### Historical Context: Forging the Gothenburg Sound in 1992
+
+The early 1990s witnessed an explosion of Swedish death metal, establishing a distinct regional identity within the global extreme metal scene. This period was spearheaded by seminal albums like Entombed's *Left Hand Path* (1990) and Dismember's *Like an Everflowing Stream* (1991), which cemented a "grinding" sound often associated with the Stockholm scene. Amidst this burgeoning brutality, the city of Gothenburg began to cultivate its own unique sonic identity, characterized by a more melodic and melancholic approach.
+
+At the Gates emerged in 1990 from the ashes of the influential Gothenburg death/black metal band Grotesque, with vocalist Tomas Lindberg and guitarist Alf Svensson forming the new entity alongside the Björler brothers. Their 1991 EP, *Gardens of Grief*, served as a raw, aggressive prelude to their full-length debut, showcasing their nascent sound.
+
+Upon its release, *The Red in the Sky Is Ours* was met with "widespread acclaim" within the underground metal community. However, its true depth, experimental nature, and innovative qualities were "belatedly admired" by a broader audience. This apparent duality in reception is not a contradiction but rather a reflection of the album's specific impact trajectory. The "widespread acclaim" it received was primarily within the then-nascent and highly specialized underground death metal scene, encompassing fanzines, tape-traders, and dedicated fans who actively sought out raw, challenging music. 
+
+The album's "complex," "labyrinthic," "dark, raw sounding yet melodic" qualities inherently limited its immediate appeal to a broader metal audience, solidifying its status as an "underground" release. This underground nature meant that its profound innovations and artistic depth were not immediately obvious or accessible to a wider audience. It required time, retrospective listening, and the subsequent success of the band's more streamlined material, such as *Slaughter of the Soul*, for its unique contributions to be fully appreciated and its "belated admiration" to solidify. This positions *The Red in the Sky Is Ours* as a quintessential cult classic, whose true influence blossomed over time rather than upon initial release.
+
+### Sonic Deconstruction: The Avant-Garde Brutality Within
+
+*The Red in the Sky Is Ours* is fundamentally characterized as a "raw slab of extremity with intense aggression." It is often described as "pure death metal," a crucial distinction from the more overt, streamlined melodicism that would define *Slaughter of the Soul*. The album's production, though retrospectively described as "weird" and "very weak-sounding" by guitarist Anders Björler, is paradoxically praised for being "quite dirty and raw." This raw aesthetic is not merely a technical limitation but a defining feature, contributing profoundly to its "underground and experimental atmosphere." 
+
+The raw, unpolished production directly contributes to the album's unique character. By not having an overly thick or compressed sound, the individual, complex, and often "crooked" instrumental performances, especially the intricate guitar work and dynamic drumming, gain clarity and space. This clarity allows the listener to better discern the album's "labyrinthine" arrangements and unconventional melodic ideas, which might otherwise be lost in a more polished, dense mix. This demonstrates that for certain experimental or avant-garde metal albums, a less conventional production can paradoxically serve the artistic vision more effectively, reinforcing *The Red in the Sky Is Ours*'s status as a distinct artistic statement where sonic imperfections are woven into its identity.
+
+The album's songwriting is exceptionally "complex and intricate," often bordering on "disjointed." This is not a flaw, but a deliberate artistic choice. Riffs are described as "non-circular and linear," featuring "drawn out grinding leads and tremolo picking sequenced in shorter arrangements that cycle swiftly." The music is punctuated by "unconventional riffs that stop the music in its tracks with drop outs between its notes," creating a "spectacle of perceived oddity" and a "roller coaster of emotion." This intricate structure is a testament to the band members' remarkable training and dedication, allowing them to execute transitions that, on paper, "shouldn't work" but coalesce into a cohesive, albeit challenging, whole.
+
+Guitarist Alf Svensson was a "major songwriter" for At the Gates' first three albums, including *The Red in the Sky Is Ours*. He is credited with bringing "the dark and epic segments" to their overall sound, and his ideas were often considered "over the top" and "very strange music." Svensson notably employed a unique compositional technique of recording guitar parts and playing them backward, a method that influenced tracks like "Through Gardens of Grief" and "Night Comes, Blood Black." This unconventional approach is central to the album's unhinged, often dissonant, and constantly shifting guitar work, contributing to its "labyrinthine" and "complex" nature. 
+
+The striking correlation between Svensson's described songwriting style and the album's sonic characteristics strongly indicates that his idiosyncratic genius was the primary driver of *The Red in the Sky Is Ours*'s unique sound. His fusion of "Swedish melancholy of Nordic folk music with death metal and classical music" and his experimental techniques directly resulted in the album's non-traditional melodicism and complex structures. This suggests that *The Red in the Sky Is Ours* is not merely an early, unrefined version of the "Gothenburg sound," but a singular artistic statement heavily defined by Svensson's specific, avant-garde vision.
+
+Tomas Lindberg's vocal performance on *The Red in the Sky Is Ours* is characterized by "pure neurotic screams." While some retrospective reviews suggest he hadn't "truly found his voice yet" on this album compared to his later, more refined delivery, his raw, intense performance is nonetheless integral to the album's visceral atmosphere and contributes to its overall underground appeal. Lindberg was also responsible for the lyrics on most tracks.
+
+Adrian Erlandsson's drumming is lauded as "fantastic" and executed with "maximum possible intensity." His rhythms are remarkably dynamic and complex, mirroring the guitars' frantic pace with "unrelenting fury" but also skillfully slowing down for more "off-kilter or unorthodox" parts, consistently remaining "complex and intricate." Jonas Björler's bass lines are described as "equally fuzzy" and often rise to the forefront of the mix, contributing significantly to the album's avant-garde leanings and overall dense texture. The interplay between all instruments is a "miracle," allowing each member to shine and compliment each other incredibly well.
+
+A truly standout and innovative element is the "inclusion of violin sounds," which ensured the album "scored points for originality" upon its release. The violin is strategically featured "to maximize these effects," particularly on the instrumental back half of the title track ("The Red in the Sky Is Ours / The Season to Come") and the outro of "Within." These "folkish violins" or "strings" are seamlessly integrated to create haunting linking interludes and a brooding, visionary atmosphere, evoking a "string concerto emerging from the depths of the inferno." This unconventional instrumentation is a clear indicator of the band's early experimental spirit and their willingness to push the boundaries of death metal. 
+
+The deliberate inclusion of the violin directly contributes to the album's unique "darker form" of melody and its "visionary" atmosphere. This is a distinct and more avant-garde approach to melodicism compared to the guitar-centric harmonies that would later define the mainstream Gothenburg sound. It demonstrates that At the Gates' early melodic inclinations were broader and more experimental, explicitly incorporating classical and folk elements, rather than solely relying on guitar leads. This experimental use of non-traditional instrumentation for melodic and atmospheric purposes in *The Red in the Sky Is Ours* serves as an early, albeit unconventional, blueprint for how death metal could incorporate "pretty" or "epic" sounds without sacrificing its inherent brutality. 
+
+It expands the definition of "melodic" in death metal beyond just guitar riffs, suggesting that the genre's melodic evolution was not a singular, linear path but one with diverse, exploratory roots, of which *The Red in the Sky Is Ours* was a crucial, if idiosyncratic, example.
+
+### Evolving Legacy: A Prophetic Blueprint for Melodic Death Metal
+
+*The Red in the Sky Is Ours* stands as "its own unique entity, one that has never been successfully mimicked or replicated." Even At the Gates' immediate successor, *With Fear I Kiss the Burning Darkness* (1993), while retaining some of the avant-garde songwriting traits, consciously moved closer to the aesthetics of early traditional Swedish melodic death metal in terms of production and atmosphere. This album is a profound testament to the band members' youth and prodigious talent, creating such a complex and visionary work as a debut.
+
+Critically, *The Red in the Sky Is Ours* stands in stark contrast to the band's seminal 1995 album, *Slaughter of the Soul*. While *Slaughter of the Soul* is widely considered the "genre-defining" album for melodic death metal, known for its "stripped-down, no-frills," "simple and palatable," and highly accessible approach, *The Red in the Sky Is Ours* is lauded for its "sophisticated, artistic, challenging, and incredibly creative" nature. The band themselves acknowledged that their early work was "very technical and complex," with "musicianship sometimes [getting] in the way," leading them to consciously "become simpler and more straightforward" for *Terminal Spirit Disease* and, ultimately, *Slaughter of the Soul*. This highlights a deliberate evolution away from *The Red in the Sky Is Ours*'s labyrinthine complexity towards a more direct and impactful sound. 
+
+The band's conscious decision to simplify their sound after the intricate complexity of *The Red in the Sky Is Ours* directly led to *Slaughter of the Soul*'s massive commercial success and its definitive status within melodic death metal. This implies that *The Red in the Sky Is Ours*'s contribution to the genre is not as a direct template for its popular sound, but rather as an earlier, more experimental, and intellectually demanding exploration of melody within death metal. It represents a "road not taken" by the band for their later commercial breakthrough, but one that still holds immense artistic value and indirect influence. 
+
+This distinction is crucial for a specialized audience, as *The Red in the Sky Is Ours* demonstrates that the "Gothenburg sound" had more diverse and less commercially driven origins. Its legacy is thus more profound for those seeking the genre's experimental roots, technical prowess, and avant-garde tendencies, influencing a different lineage of extreme metal that values complexity over immediate catchiness. It stands as a testament to the genre's initial breadth before it coalesced into more standardized forms.
+
+While *Slaughter of the Soul* is often exclusively cited as the definitive Gothenburg sound album, *The Red in the Sky Is Ours* was a crucial, pioneering step in its development. At the Gates' "melancholic and melodic take on death metal proved immediately influential upon fellow Gothenburg bands" like Eucharist, Ceremonial Oath, Dissection, In Flames, and Dark Tranquillity. Even if *The Red in the Sky Is Ours* itself wasn't the "melodic death metal" blueprint in its final, streamlined form, it was an integral part of the band's "progressive, complex way of crafting songs of dextrous melodic fluidity and variation," which "would inspire the whole Gothenburg region." It laid the conceptual groundwork for integrating melody into death metal in a way that resonated with their peers.
+
+The album's "progressive, complex way of crafting songs" extended its influence beyond just the emerging melodic death metal scene. Its intricate, often dissonant, melodies, combined with its raw aggression and unique instrumentation (like the violin), also left a mark on "technical death metal" and even elements of black metal, such as Darkthrone's *Transilvanian Hunger*. This broad, subtle impact solidifies *The Red in the Sky Is Ours* as a truly singular work that transcended strict genre boundaries, a testament to its unyielding artistic integrity.
+
+Despite its initial underground status and later overshadowing by the commercial success of *Slaughter of the Soul*, *The Red in the Sky Is Ours* is unequivocally "considered a genre classic by many." It is a record that continues to be "belatedly admired" for its profound depth, uncompromising originality, and unyielding artistic integrity, solidifying its place as a unique and essential piece of extreme metal history that continues to reward dedicated listeners.
+
+### Conclusion
+
+*The Red in the Sky Is Ours* by At the Gates is far more than a mere debut; it is a profound and challenging artistic statement that laid crucial, albeit unconventional, groundwork for the melodic death metal genre. Its raw, experimental production, coupled with the labyrinthine and often dissonant songwriting driven by Alf Svensson's visionary guitar work, created a sound that was ahead of its time and inherently "underground." The bold inclusion of the violin further underscored its pioneering spirit, demonstrating an early exploration of melody and atmosphere that extended beyond traditional guitar harmonies.
+
+While it may not possess the immediate accessibility or streamlined catchiness of its later, genre-defining counterpart, *Slaughter of the Soul*, *The Red in the Sky Is Ours* represents a distinct and equally vital facet of At the Gates' evolution. It showcases the band's early technical prowess and their willingness to push extreme metal's boundaries, influencing not only the nascent Gothenburg scene but also elements of technical and black metal. Its initial "widespread acclaim" within the underground, followed by "belated admiration" from a wider audience, solidifies its status as a cult classic whose true depth and significance have only grown with time. 
+
+For the discerning listener and historian of extreme metal, *The Red in the Sky Is Ours* remains an unreplicable, essential listen—a prophetic blueprint that reveals the complex, experimental origins of a genre it helped to forge.
+    `
   },
    {
     "id": "with-fear-i-kiss-the-burning-darkness",
@@ -68,6 +89,19 @@ And you will not emerge unchanged.
     "year": 1993,
     "artist": "At the Gates",
     "cover": "/img/with-fear-i-kiss-the-burning-darkness.webp",
+    "tracklist": [
+      { "title": "Beyond Good and Evil" },
+      { "title": "Raped by the Light of Christ" },
+      { "title": "The Break of Autumn" },
+      { "title": "Non-Divine" },
+      { "title": "Primal Breath" },
+      { "title": "The Architects" },
+      { "title": "Stardrowned" },
+      { "title": "Blood of the Sunsets" },
+      { "title": "The Burning Darkness" },
+      { "title": "Ever-Opening Flower" },
+      { "title": "Through the Red" }
+    ],
     "review": `
 In the early 1990s, the Swedish death metal scene was burgeoning with innovation. Following the raw aggression of their debut, *The Red in the Sky Is Ours* (1992), At the Gates returned with their sophomore effort, *With Fear I Kiss the Burning Darkness*, in 1993. This period marked a transition in the genre, as bands began to explore more melodic and complex compositions, setting the stage for what would become the hallmark of the Gothenburg sound.
 
@@ -96,20 +130,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
 ### Conclusion
 
 *With Fear I Kiss the Burning Darkness* stands as a testament to At the Gates' willingness to push the boundaries of death metal. Its intricate compositions, philosophical lyrics, and artistic presentation contribute to its enduring legacy as a pivotal album in the development of melodic death metal.
-    `,
-    "tracks": [
-      { "title": "Beyond Good and Evil" },
-      { "title": "Raped by the Light of Christ" },
-      { "title": "The Break of Autumn" },
-      { "title": "Non-Divine" },
-      { "title": "Primal Breath" },
-      { "title": "The Architects" },
-      { "title": "Stardrowned" },
-      { "title": "Blood of the Sunsets" },
-      { "title": "The Burning Darkness" },
-      { "title": "Ever-Opening Flower" },
-      { "title": "Through the Red" }
-    ]
+    `
   },
   {
     "id": "skydancer",
@@ -118,7 +139,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/skydancer.webp",
     "review": "skydancer.md",
-    "tracks": [
+    "tracklist": [
     { "title": "Nightfall by the Shore of Time" },
     { "title": "Crimson Winds" },
     { "title": "A Bolt of Blazing Gold" },
@@ -137,7 +158,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "At the Gates",
     "cover": "/img/terminal-spirit-disease.webp",
     "review": "terminal-spirit-disease.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Swarm" },
       { "title": "Terminal Spirit Disease" },
       { "title": "And the World Returned" },
@@ -156,7 +177,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Flames",
     "cover": "/img/lunar-strain.webp",
     "review": "lunar-strain.md",
-    "tracks": [
+    "tracklist": [
     { "title": "Behind Space" },
     { "title": "Lunar Strain" },
     { "title": "Starforsaken" },
@@ -176,7 +197,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/the-gallery.webp",
     "review": "the-gallery.md",
-    "tracks": [
+    "tracklist": [
     { "title": "Punish My Heaven" },
     { "title": "Silence, and the Firmament Withdrew" },
     { "title": "Edenspring" },
@@ -197,7 +218,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "At the Gates",
     "cover": "/img/slaughter-of-the-soul.webp",
     "review": "slaughter-of-the-soul.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Blinded by Fear" },
       { "title": "Slaughter of the Soul" },
       { "title": "Cold" },
@@ -218,7 +239,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Flames",
     "cover": "/img/the-jester-race.webp",
     "review": "the-jester-race.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Moonshield" },
       { "title": "The Jester's Dance" },
       { "title": "Artifacts of the Black Rain" },
@@ -238,7 +259,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/the-minds-i.webp",
     "review": "the-minds-i.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Dreamlore Degenerate" },
       { "title": "Zodijackyl Light" },
       { "title": "Hedon" },
@@ -260,7 +281,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Flames",
     "cover": "/img/whoracle.webp",
     "review": "whoracle.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Jotun" },
       { "title": "Food for the Gods" },
       { "title": "Gyroscope" },
@@ -281,7 +302,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Flames",
     "cover": "/img/colony.webp",
     "review": "colony.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Embody the Invisible" },
       { "title": "Ordinary Story" },
       { "title": "Scorn" },
@@ -302,7 +323,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/projector.webp",
     "review": "projector.md",
-    "tracks": [
+    "tracklist": [
       { "title": "FreeCard" },
       { "title": "ThereIn" },
       { "title": "Undo Control" },
@@ -322,7 +343,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Flames",
     "cover": "/img/clayman.webp",
     "review": "clayman.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Bullet Ride" },
       { "title": "Pinball Map" },
       { "title": "Only for the Weak" },
@@ -343,7 +364,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Inanna",
     "cover": "/img/converging-ages.webp",
     "review": "converging-ages.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Doom of Mankind" },
       { "title": "Gilgamesh" },
       { "title": "Beyond Time and Memory" },
@@ -361,7 +382,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Edge of Sanity",
     "cover": "/img/crimson.webp",
     "review": "crimson.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Crimson" }
     ]
   },
@@ -372,7 +393,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Intestine Baalism",
     "cover": "/img/an-anatomy-of-the-beast.webp",
     "review": "an-anatomy-of-the-beast.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Corporal Celebration" },
       { "title": "Anatomy of the Beast" },
       { "title": "Alastor Possess" },
@@ -391,7 +412,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Intestine Baalism",
     "cover": "/img/banquet-in-the-darkness.webp",
     "review": "banquet-in-the-darkness.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Flesh for the Twelfth Omnipotent" },
       { "title": "Banquet in the Darkness" },
       { "title": "A Curse of Baal" },
@@ -412,7 +433,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Carcass",
     "cover": "/img/heartwork.webp",
     "review": "heartwork.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Buried Dreams" },
       { "title": "Carnal Forge" },
       { "title": "No Love Lost" },
@@ -432,7 +453,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Edge of Sanity",
     "cover": "/img/purgatory-afterglow.webp",
     "review": "purgatory-afterglow.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Twilight" },
       { "title": "Of Darksome Origin" },
       { "title": "Blood-Colored" },
@@ -452,7 +473,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Intestine Baalism",
     "cover": "/img/ultimate-instinct.webp",
     "review": "ultimate-instinct.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Agony in the Stone Chamber" },
       { "title": "Cry for the Black Sun" },
       { "title": "Longing for Birth" },
@@ -471,7 +492,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Garden of Shadows",
     "cover": "/img/oracle-moon.webp",
     "review": "oracle-moon.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Oracle Moon" },
       { "title": "Citadel of Dreams" },
       { "title": "Into Infinity" },
@@ -488,7 +509,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/winters-gate.webp",
     "review": "winters-gate.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Winter's Gate" }
     ]
   },
@@ -499,7 +520,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/above-the-weeping-world.webp",
     "review": "above-the-weeping-world.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Gale" },
       { "title": "Mortal Share" },
       { "title": "Drawn to Black" },
@@ -518,7 +539,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/damage-done.webp",
     "review": "damage-done.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Final Resistance" },
       { "title": "Hours Passed in Exile" },
       { "title": "Monochromatic Stains" },
@@ -539,7 +560,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Edge of Sanity",
     "cover": "/img/crimson-ii.webp",
     "review": "crimson-ii.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Crimson II" }
     ]
   },
@@ -550,7 +571,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Sentenced",
     "cover": "/img/north-from-here.webp",
     "review": "north-from-here.md",
-    "tracks": [
+    "tracklist": [
       { "title": "My Sky Is Darker Than Thine" },
       { "title": "Wings" },
       { "title": "Fields of Blood, Harvester of Hate" },
@@ -568,7 +589,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amorphis",
     "cover": "/img/tales-from-the-thousand-lakes.webp",
     "review": "tales-from-the-thousand-lakes.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Thousand Lakes" },
       { "title": "Into Hiding" },
       { "title": "The Castaway" },
@@ -588,7 +609,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Be'lakor",
     "cover": "/img/stones-reach.webp",
     "review": "stones-reach.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Venator" },
       { "title": "From Scythe to Sceptre" },
       { "title": "Outlive the Hand" },
@@ -606,7 +627,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/fiction.webp",
     "review": "fiction.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Nothing to No One" },
       { "title": "The Lesser Faith" },
       { "title": "Terminus (Where Death Is Most Alive)" },
@@ -626,7 +647,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Wintersun",
     "cover": "/img/wintersun.webp",
     "review": "wintersun.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Beyond the Dark Sun" },
       { "title": "Winter Madness" },
       { "title": "Sleeping Stars" },
@@ -644,7 +665,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Unanimated",
     "cover": "/img/ancient-god-of-evil.webp",
     "review": "ancient-god-of-evil.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Life Demise" },
       { "title": "Eye of the Greyhound" },
       { "title": "Oceans of Time" },
@@ -663,7 +684,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/across-the-dark.webp",
     "review": "across-the-dark.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Equivalence" },
       { "title": "Down With the Sun" },
       { "title": "Where the Last Wave Broke" },
@@ -681,7 +702,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/character.webp",
     "review": "character.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The New Build" },
       { "title": "Through Smudged Lenses" },
       { "title": "Out of Nothing" },
@@ -702,7 +723,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Be'lakor",
     "cover": "/img/of-breath-and-bone.webp",
     "review": "of-breath-and-bone.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Abeyance" },
       { "title": "Remnants" },
       { "title": "Fraught" },
@@ -720,7 +741,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Crown",
     "cover": "/img/deathrace-king.webp",
     "review": "deathrace-king.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Deathexplosion" },
       { "title": "Executioner: Slayer of the Light" },
       { "title": "Back From the Grave" },
@@ -741,7 +762,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "An Abstract Illusion",
     "cover": "/img/woe.webp",
     "review": "woe.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Behemoth That Lies Asleep" },
       { "title": "Slaves" },
       { "title": "Tear Down This Holy Mountain" },
@@ -758,7 +779,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Shadow of Intent",
     "cover": "/img/melancholy.webp",
     "review": "melancholy.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Melancholy" },
       { "title": "Gravesinger" },
       { "title": "Barren and Breathless Macrocosm" },
@@ -778,7 +799,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amon Amarth",
     "cover": "/img/with-oden-on-our-side.webp",
     "review": "with-oden-on-our-side.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Valhall Awaits Me" },
       { "title": "Runes to My Memory" },
       { "title": "Asator" },
@@ -797,7 +818,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amorphis",
     "cover": "/img/elegy.webp",
     "review": "elegy.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Better Unborn" },
       { "title": "Against Widows" },
       { "title": "The Orphan" },
@@ -818,7 +839,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Eucharist",
     "cover": "/img/a-velvet-creation.webp",
     "review": "a-velvet-creation.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Greeting Immortality" },
       { "title": "The Religion of Blood-Red Velvet" },
       { "title": "March of Insurrection" },
@@ -836,7 +857,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Edge of Sanity",
     "cover": "/img/the-spectral-sorrows.webp",
     "review": "the-spectral-sorrows.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Spectral Sorrows" },
       { "title": "Darkday" },
       { "title": "Livin' Hell" },
@@ -859,7 +880,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/since-the-day-it-all-came-down.webp",
     "review": "since-the-day-it-all-came-down.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Nocturne" },
       { "title": "The Day It All Came Down" },
       { "title": "Daughter of the Moon" },
@@ -880,7 +901,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Soilwork",
     "cover": "/img/the-living-infinite.webp",
     "review": "the-living-infinite.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Spectrum of Eternity" },
       { "title": "Memories Confined" },
       { "title": "This Momentary Bliss" },
@@ -909,7 +930,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/heart-like-a-grave.webp",
     "review": "heart-like-a-grave.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Wail of the North" },
       { "title": "Valediction" },
       { "title": "Neverlast" },
@@ -929,7 +950,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amon Amarth",
     "cover": "/img/twilight-of-the-thunder-god.webp",
     "review": "twilight-of-the-thunder-god.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Twilight of the Thunder God" },
       { "title": "Free Will Sacrifice" },
       { "title": "Guardians of Asgaard" },
@@ -949,7 +970,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/shadows-of-the-dying-sun.webp",
     "review": "shadows-of-the-dying-sun.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Primeval Dark" },
       { "title": "While We Sleep" },
       { "title": "Revelation" },
@@ -969,7 +990,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Be'lakor",
     "cover": "/img/vessels.webp",
     "review": "vessels.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Luma" },
       { "title": "An Ember's Arc" },
       { "title": "Withering Strands" },
@@ -987,7 +1008,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Scar Symmetry",
     "cover": "/img/holographic-universe.webp",
     "review": "holographic-universe.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Morphogenesis" },
       { "title": "Timewave Zero" },
       { "title": "Quantumleaper" },
@@ -1009,7 +1030,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Darkest Hour",
     "cover": "/img/deliver-us.webp",
     "review": "deliver-us.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Doomsayer (The Beginning of the End)" },
       { "title": "Sanctuary" },
       { "title": "Demon(s)" },
@@ -1030,7 +1051,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Kalmah",
     "cover": "/img/swampsong.webp",
     "review": "swampsong.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Heroes to Us" },
       { "title": "Burbot's Revenge" },
       { "title": "Cloned Insanity" },
@@ -1049,7 +1070,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Children of Bodom",
     "cover": "/img/hatebreeder.webp",
     "review": "hatebreeder.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Warheart" },
       { "title": "Silent Night, Bodom Night" },
       { "title": "Hatebreeder" },
@@ -1068,7 +1089,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Hypocrisy",
     "cover": "/img/hypocrisy.webp",
     "review": "hypocrisy.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Fractured Millennium" },
       { "title": "Apocalyptic Hybrid" },
       { "title": "Fusion Programmed Minds" },
@@ -1088,7 +1109,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Black Dahlia Murder",
     "cover": "/img/nocturnal.webp",
     "review": "nocturnal.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Everything Went Black" },
       { "title": "What a Horrible Night to Have a Curse" },
       { "title": "Virally Yours" },
@@ -1108,7 +1129,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Be'lakor",
     "cover": "/img/coherence.webp",
     "review": "coherence.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Locus" },
       { "title": "The Dispersion" },
       { "title": "Foothold" },
@@ -1126,7 +1147,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Omnium Gatherum",
     "cover": "/img/new-world-shadows.webp",
     "review": "new-world-shadows.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Everfields" },
       { "title": "Ego" },
       { "title": "New World Shadows" },
@@ -1145,7 +1166,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Children of Bodom",
     "cover": "/img/follow-the-reaper.webp",
     "review": "follow-the-reaper.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Follow the Reaper" },
       { "title": "Bodom After Midnight" },
       { "title": "Children of Decadence" },
@@ -1164,7 +1185,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Kalmah",
     "cover": "/img/the-black-waltz.webp",
     "review": "the-black-waltz.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Defeat" },
       { "title": "Bitter Metallic Side" },
       { "title": "Time Takes Us All" },
@@ -1185,7 +1206,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Hypocrisy",
     "cover": "/img/the-final-chapter.webp",
     "review": "the-final-chapter.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Inseminated Adoption" },
       { "title": "A Coming Race" },
       { "title": "Dominion" },
@@ -1207,7 +1228,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Kalmah",
     "cover": "/img/they-will-return.webp",
     "review": "they-will-return.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Hollow Heart" },
       { "title": "Swamphell" },
       { "title": "Principle Hero" },
@@ -1226,7 +1247,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Carcass",
     "cover": "/img/surgical-steel.webp",
     "review": "surgical-steel.md",
-    "tracks": [
+    "tracklist": [
       { "title": "1985" },
       { "title": "Thrasher's Abattoir" },
       { "title": "Cadaver Pouch Conveyor System" },
@@ -1247,7 +1268,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "In Mourning",
     "cover": "/img/the-weight-of-oceans.webp",
     "review": "the-weight-of-oceans.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Colossus" },
       { "title": "A Vow to Conquer the Ocean" },
       { "title": "From a Tidal Sleep" },
@@ -1266,7 +1287,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Scar Symmetry",
     "cover": "/img/pitch-black-progress.webp",
     "review": "pitch-black-progress.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Illusionist" },
       { "title": "Slaves to the Subliminal" },
       { "title": "Mind Machine" },
@@ -1287,7 +1308,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/one-for-sorrow.webp",
     "review": "one-for-sorrow.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Inertia" },
       { "title": "Through the Shadows" },
       { "title": "Song of the Blackest Bird" },
@@ -1307,7 +1328,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Hypocrisy",
     "cover": "/img/abducted.webp",
     "review": "abducted.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Gathering" },
       { "title": "Roswell 47" },
       { "title": "Killing Art" },
@@ -1330,7 +1351,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Fires in the Distance",
     "cover": "/img/air-not-meant-for-us.webp",
     "review": "air-not-meant-for-us.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Harbingers" },
       { "title": "Wisdom of the Falling Leaves" },
       { "title": "Crumbling Pillars of a Tranquil Mind" },
@@ -1346,7 +1367,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Black Dahlia Murder",
     "cover": "/img/ritual.webp",
     "review": "ritual.md",
-    "tracks": [
+    "tracklist": [
       { "title": "A Shrine to Madness" },
       { "title": "Moonlight Equilibrium" },
       { "title": "On Stirring Seas of Salted Blood" },
@@ -1368,7 +1389,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Kalmah",
     "cover": "/img/swamplord.webp",
     "review": "swamplord.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Evil in You" },
       { "title": "Withering Away" },
       { "title": "Heritance of Berija" },
@@ -1386,7 +1407,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Arch Enemy",
     "cover": "/img/burning-bridges.webp",
     "review": "burning-bridges.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Immortal" },
       { "title": "Dead Inside" },
       { "title": "Pilgrim" },
@@ -1404,7 +1425,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amon Amarth",
     "cover": "/img/versus-the-world.webp",
     "review": "versus-the-world.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Death in Fire" },
       { "title": "For the Stabwounds in Our Backs" },
       { "title": "Where Silent Gods Stand Guard" },
@@ -1423,7 +1444,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Darkest Hour",
     "cover": "/img/undoing-ruin.webp",
     "review": "undoing-ruin.md",
-    "tracks": [
+    "tracklist": [
       { "title": "With a Thousand Words to Say but One" },
       { "title": "Convalescence" },
       { "title": "This Will Outlive Us" },
@@ -1444,7 +1465,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Quo Vadis",
     "cover": "/img/defiant-imagination.webp",
     "review": "defiant-imagination.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Silence Calls the Storm" },
       { "title": "In Contempt" },
       { "title": "Break the Cycle" },
@@ -1463,7 +1484,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Hypocrisy",
     "cover": "/img/virus.webp",
     "review": "virus.md",
-    "tracks": [
+    "tracklist": [
       { "title": "XVI" },
       { "title": "Warpath" },
       { "title": "Scrutinized" },
@@ -1484,7 +1505,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/anno-1696.webp",
     "review": "anno-1696.md",
-    "tracks": [
+    "tracklist": [
       { "title": "1696" },
       { "title": "White Christ" },
       { "title": "Godforsaken" },
@@ -1502,7 +1523,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Opeth",
     "cover": "/img/orchid.webp",
     "review": "orchid.md",
-    "tracks": [
+    "tracklist": [
       { "title": "In Mist She Was Standing" },
       { "title": "Under the Weeping Moon" },
       { "title": "Silhouette" },
@@ -1519,7 +1540,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/atoma.webp",
     "review": "atoma.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Encircled" },
       { "title": "Atoma" },
       { "title": "Forward Momentum" },
@@ -1541,7 +1562,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Arsis",
     "cover": "/img/a-celebration-of-guilt.webp",
     "review": "a-celebration-of-guilt.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Face of My Innocence" },
       { "title": "Maddening Disdain" },
       { "title": "Seven Whispers Fell Silent" },
@@ -1562,7 +1583,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Black Dahlia Murder",
     "cover": "/img/nightbringers.webp",
     "review": "nightbringers.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Widowmaker" },
       { "title": "Of God and Serpent, of Spectre and Snake" },
       { "title": "Matriarch" },
@@ -1581,7 +1602,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Black Dahlia Murder",
     "cover": "/img/everblack.webp",
     "review": "everblack.md",
-    "tracks": [
+    "tracklist": [
       { "title": "In Hell Is Where She Waits for Me" },
       { "title": "Goat of Departure" },
       { "title": "Into the Everblack" },
@@ -1601,7 +1622,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Soilwork",
     "cover": "/img/the-chainheart-machine.webp",
     "review": "the-chainheart-machine.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Chainheart Machine" },
       { "title": "Bulletbeast" },
       { "title": "Millionflame" },
@@ -1620,7 +1641,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Soilwork",
     "cover": "/img/a-predators-portrait.webp",
     "review": "a-predators-portrait.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Bastard Chain" },
       { "title": "Like the Average Stalker" },
       { "title": "Needlefeast" },
@@ -1640,7 +1661,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Soilwork",
     "cover": "/img/natural-born-chaos.webp",
     "review": "natural-born-chaos.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Follow the Hollow" },
       { "title": "As We Speak" },
       { "title": "The Flameout" },
@@ -1660,7 +1681,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Insomnium",
     "cover": "/img/in-the-halls-of-awaiting.webp",
     "review": "in-the-halls-of-awaiting.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Ill-Starred Son" },
       { "title": "Song of the Storm" },
       { "title": "Medeia" },
@@ -1680,7 +1701,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "The Halo Effect",
     "cover": "/img/days-of-the-lost.webp",
     "review": "days-of-the-lost.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Shadowminds" },
       { "title": "Days of the Lost" },
       { "title": "The Needless End" },
@@ -1700,7 +1721,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Hypocrisy",
     "cover": "/img/the-arrival.webp",
     "review": "the-arrival.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Born Dead Buried Alive" },
       { "title": "Eraser" },
       { "title": "Stillborn" },
@@ -1719,7 +1740,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/haven.webp",
     "review": "haven.md",
-    "tracks": [
+    "tracklist": [
       { "title": "The Wonders at Your Feet" },
       { "title": "Not Built to Last" },
       { "title": "Indifferent Suns" },
@@ -1740,7 +1761,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Eluveitie",
     "cover": "/img/slania.webp",
     "review": "slania.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Samon" },
       { "title": "Primordial Breath" },
       { "title": "Inis Mona" },
@@ -1762,7 +1783,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Arch Enemy",
     "cover": "/img/wages-of-sin.webp",
     "review": "wages-of-sin.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Enemy Within" },
       { "title": "Burning Angel" },
       { "title": "Heart of Darkness" },
@@ -1783,7 +1804,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Eluveitie",
     "cover": "/img/spirit.webp",
     "review": "spirit.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Spirit" },
       { "title": "Uis Elveti" },
       { "title": "Your Gaulish War" },
@@ -1804,7 +1825,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Dark Tranquillity",
     "cover": "/img/moment.webp",
     "review": "moment.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Phantom Days" },
       { "title": "Transient" },
       { "title": "Identical to None" },
@@ -1826,7 +1847,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Children of Bodom",
     "cover": "/img/hate-crew-deathroll.webp",
     "review": "hate-crew-deathroll.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Needled 24/7" },
       { "title": "Sixpounder" },
       { "title": "Chokehold (Cocked 'n' Loaded)" },
@@ -1845,7 +1866,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amon Amarth",
     "cover": "/img/surtur-rising.webp",
     "review": "surtur-rising.md",
-    "tracks": [
+    "tracklist": [
       { "title": "War of the Gods" },
       { "title": "Töck's Taunt - Loke's Treachery Part II" },
       { "title": "Destroyer of the Universe" },
@@ -1865,7 +1886,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Children of Bodom",
     "cover": "/img/something-wild.webp",
     "review": "something-wild.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Deadnight Warrior" },
       { "title": "In the Shadows" },
       { "title": "Red Light in My Eyes, Pt. 1" },
@@ -1882,7 +1903,7 @@ While *With Fear I Kiss the Burning Darkness* may not have achieved the same acc
     "artist": "Amon Amarth",
     "cover": "/img/once-sent-from-the-golden-hall.webp",
     "review": "once-sent-from-the-golden-hall.md",
-    "tracks": [
+    "tracklist": [
       { "title": "Ride for Vengeance" },
       { "title": "The Dragons' Flight Across the Waves" },
       { "title": "Without Fear" },
