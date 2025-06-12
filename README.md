@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Melodeath.guide
 
@@ -8,7 +8,7 @@
 
 [Live demo](https://melodeath-guide.netlify.app/)
 
-</center>
+</div>
 
 
 ## 📖 Overview
@@ -60,8 +60,6 @@ You will need `node.js` and `git` installed globally on your machine.
 Runs the app in the development mode.\
 Open [https://localhost:5173](https://localhost:5173) to view it in the browser.
 
-## 📄 License
+---
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/leknod/melodeath-guide/blob/main/LICENSE) file for details.
-
-## 🧑‍💻 Author
+[License](https://github.com/leknod/melodeath-guide/blob/main/LICENSE) | [MarcDoncel.com](https://marcdoncel.com)
