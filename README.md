@@ -1,11 +1,17 @@
+<center>
+
 # Melodeath.guide
 
-**A chronological and visual guide to the most influential melodic death metal albums.**  
-Built with ❤️ by a metalhead, for those who want to explore or revisit the genre from its roots.
+![Melodeath.guide preview](./preview.png)
 
----
+**A chronological and visual guide to the most influential melodic death metal albums for those who want to explore or revisit the genre from its roots.**
 
-## 🧠 Purpose
+[Live demo](https://melodeath-guide.netlify.app/)
+
+</center>
+
+
+## 📖 Overview
 
 **Melodeath.guide** is more than just a list of records.  
 It's a curated journey through time, with reviews that explain **each album’s impact on the genre** and its historical context.
@@ -15,32 +21,9 @@ Ideal for:
 - Fans revisiting the genre’s milestones
 - Metal enthusiasts studying the evolution of melodeath
 
----
-
-## 🎧 What each album includes
-
-Each album entry in the grid displays:
-
-- 🎨 Album cover  
-- 📅 Release year  
-- 🤘 Band name  
-- 📜 Full tracklist  
-- 📝 Contextual review (historical significance, stylistic details, influence, etc.)
-
 Albums are displayed in **chronological order**, starting from the early 1990s.
 
 Currently, the site features around **100 key records**, with more to be added over time.
-
----
-
-## ⚙️ Tech Stack
-
-- [React](https://reactjs.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- Local database using a **JavaScript object**  
-- Hosted at: [melodeath.guide](melodeath-guide.netlify.app/)
-
----
 
 ## 💡 Why I built this
 This is my **first full project** using React and Tailwind. I’m using it as a learning experience while building something I'm passionate about.
@@ -52,17 +35,33 @@ This project comes from two personal passions:
 
 It’s a way to practice coding while giving back to a genre I like.
 
----
+## 🛠️ Built With
 
-## 🤘 Credits & thanks
+- React  
+- Tailwind CSS
+- Local database using a **JavaScript object**
+- Hosted at Netlify
 
-Massive thanks to all the bands who shaped this genre.  
-And to the listeners keeping the classic melodeath flame alive.
+## 🚀 Getting started
 
----
+You will need `node.js` and `git` installed globally on your machine.
 
-## 🕸️ Live site
+1. Clone the repository:
 
-🔗 [melodeath-guide.netlify.app](https://melodeath-guide.netlify.app/)
+   ```bash
+   git clone https://github.com/yourusername/project-name.git
+   cd project-name
+   ```
 
----
+2. Installation: `npm install`
+
+3. In the project directory, you can run: `npm run dev`
+
+Runs the app in the development mode.\
+Open [https://localhost:5173](https://localhost:5173) to view it in the browser.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/leknod/melodeath-guide/blob/main/LICENSE) file for details.
+
+## 🧑‍💻 Author
