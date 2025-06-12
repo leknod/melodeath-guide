@@ -64,6 +64,6 @@ Open [https://localhost:5173](https://localhost:5173) to view it in the browser.
 
 <div align="center">
 
-[License](https://github.com/leknod/melodeath-guide/blob/main/LICENSE) | [MarcDoncel.com](https://marcdoncel.com)
+[MIT License](https://github.com/leknod/melodeath-guide/blob/main/LICENSE) | [MarcDoncel.com](https://marcdoncel.com)
 
 </div>
